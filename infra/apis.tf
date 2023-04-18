@@ -25,6 +25,7 @@ module "project_services" {
   activate_apis = [
     "cloudasset.googleapis.com",
     "cloudbuild.googleapis.com",
+    "clouddeploy.googleapis.com",
     "cloudresourcemanager.googleapis.com",
     "compute.googleapis.com",
     "firestore.googleapis.com",
