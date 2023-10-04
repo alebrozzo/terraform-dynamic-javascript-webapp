@@ -8,6 +8,13 @@ and this project adheres to
 [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 This changelog is generated automatically based on [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/).
 
+## [1.4.0](https://github.com/GoogleCloudPlatform/terraform-dynamic-javascript-webapp/compare/v1.3.0...v1.4.0) (2023-10-04)
+
+
+### Features
+
+* call firestore check endpoint in verify test ([#70](https://github.com/GoogleCloudPlatform/terraform-dynamic-javascript-webapp/issues/70)) ([542825a](https://github.com/GoogleCloudPlatform/terraform-dynamic-javascript-webapp/commit/542825a6f3674c50c87c2aac3f4b6b65d44be6c6))
+
 ## [1.3.0](https://github.com/GoogleCloudPlatform/terraform-dynamic-javascript-webapp/compare/v1.2.0...v1.3.0) (2023-07-26)
 
 
